@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bf979f3dde08f4c45839286adf1f047e
+labels:
+- MachineGun
+- Turret
+- 2d
+- Laser
+- LaserSight
+- Pixel
+- TopDown
+timeCreated: 1442419550
+licenseType: Free
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
